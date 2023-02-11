@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-forge-springboot.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-forge-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-forge-springboot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-forge-springboot.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-forge-springboot.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-forge-springboot.test.iml" />
+    </modules>
+  </component>
+</project>
